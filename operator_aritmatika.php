@@ -1,5 +1,4 @@
 <?php 
-//operator aritmatika
 $angka_1 = 250;
 $angka_2 = 100;
 echo "angka pertama : $angka_1 <br/>";

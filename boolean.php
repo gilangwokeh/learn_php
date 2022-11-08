@@ -1,5 +1,4 @@
 <?php 
-//boolean
 $benar = true;
 $salah = false;
 var_dump($benar);

@@ -1,5 +1,4 @@
 <?php 
-//data null
 $satu = 0;
 var_dump($satu);
 $dua = null; 
